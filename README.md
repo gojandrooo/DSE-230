@@ -1,3 +1,3 @@
 # DSE-230
 
-# add instructions for running code
+add data description, how to run files, etc
