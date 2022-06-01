@@ -39,7 +39,7 @@ ___
 Run the notebook files in the following order:
 - `dse230_01_parquet_generation.ipynb`
 - `dse230_02_data_merging.ipynb`
-- `dse230-03_eda.ipynb`
+- `dse230_03_eda.ipynb`
 - `dse230_04_decision_tree_classification.ipynb`
 
 In order to run the project there is a specific order that is required for everything
