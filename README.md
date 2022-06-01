@@ -8,6 +8,8 @@ Project for UCSD DSE 230 - Scalable Data Analysis
 
 Data description: smartphone and smartwatch sensor data for common household tasks. Can be used for classification of physical activity.
 
+All files can be found on Github in the [public repository](https://github.com/gojandrooo/DSE-230)
+
 
 Contributors:
 - [Alejandro Hohmann](https://github.com/gojandrooo)
